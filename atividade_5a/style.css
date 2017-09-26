@@ -1,0 +1,31 @@
+body {
+  /* background-color: #fafafa; */
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+p {
+  text-align: justify;
+}
+
+.my-photo {
+  max-width: 200px;
+}
+
+.container-fluid {
+  max-width: 840px;
+}
+
+td {
+  vertical-align: middle !important;
+}
+
+.v-space {
+  height: 1px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.radio-inline input[type="radio"] {
+  position: initial;
+}
